@@ -3,6 +3,7 @@ deleteme
 
 # API keys
 config.py
+config.js
 
 # Word temporary
 ~$*.doc*
